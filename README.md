@@ -1,5 +1,6 @@
 c4 - C in four functions
 ========================
+[ ![Codeship Status for lushl9301/c4](https://codeship.com/projects/a3548480-5425-0132-8879-6274f9eea671/status)](https://codeship.com/projects/49121)
 
 An exercise in minimalism.
 
